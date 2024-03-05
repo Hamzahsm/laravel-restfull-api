@@ -1,5 +1,5 @@
 <?php
-
+// referensi : https://santrikoding.com/tutorial-restful-api-laravel-10-9-delete-data-dari-database
 namespace App\Http\Controllers\Api;
 //import Model "Post"
 use App\Models\Post;
